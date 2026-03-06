@@ -9,3 +9,15 @@ Two complementary development pathways are adopted:
 - **Empirical-to-Conceptual:** refining the framework based on real-world implementation use cases.
 
 This repository contains the literature review results, identified use cases, and supporting materials for the framework development.
+
+Microgrid_DT
+│
+├── Conceptual-to-Empirical Details
+│   ├── LiteratureAnalysis&Summary.xlsx
+│   └── LiteratureRecord.xlsx
+│
+├── Empirical-to-Conceptual Details
+│   ├── UseCaseSummary&Analysis.xlsx
+│   └── literature_record.xlsx
+│
+└── README.md
