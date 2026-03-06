@@ -8,7 +8,7 @@ The framework is developed using the **taxonomy development method proposed by N
 Two complementary development pathways are adopted:
 
 - **Conceptual-to-Empirical** – identifying key architectural components from existing theoretical research.
-- **Empirical-to-Conceptual** – refining the framework based on real-world implementation use cases.
+- **Empirical-to-Conceptual** – refining the framework based on implementation use cases identified in the literature.
 
 This repository contains the **literature review results, identified use cases, and supporting materials** used in the framework development process.
 
